@@ -1,10 +1,8 @@
-# mini-wind-tunnel-Mark-I
+# 🌬️ Mini Wind Tunnel Project (MkI)  
 Homemade F1-style wind tunnel built from recycled materials — lessons, failures, and smoke tests included.
 
-# 🌬️ Mini Wind Tunnel Project  
-
 **Objective:**  
-Build a low-cost wind tunnel from recycled materials to visualise airflow over small-scale F1 models.  
+Build a low-cost wind tunnel from recycled materials to visualise airflow over small-scale F1 models, with the long-term goal of developing affordable test rigs for student aero projects.
 
 ---
 
