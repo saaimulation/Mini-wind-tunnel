@@ -26,7 +26,7 @@ Build a low-cost wind tunnel from recycled materials to visualise airflow over s
 
 ## 📊 Lessons Learned  
 - Flow straighteners (honeycomb/mesh) needed for uniform airflow.  
-- Fan power shape had a major effect on turbulence.  
+- Fan power had a major effect on turbulence.  
 - Scaling is difficult without a proper contraction section.  
 - Next version (MkII) will need better design of inlet → test section → diffuser.  
 
