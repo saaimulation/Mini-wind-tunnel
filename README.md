@@ -36,8 +36,8 @@ Short logs and notes on each stage are in [`/Reports`](./Reports).
 ---
 
 ## 🚦 Next Steps   
-- Add mesh/honeycomb for straighter flow.  
-- Use higher power fans or ducted design.  
+- Add a secure honeycomb mesh for straighter flow.  
+- Use a ducted design and better proportions.
 - Upgrade to 3D-printed parts for structure.  
 
 ---
