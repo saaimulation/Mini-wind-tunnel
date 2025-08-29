@@ -30,11 +30,6 @@ Build a low-cost wind tunnel from recycled materials to visualise airflow over s
 
 ---
 
-## 📑 Reports  
-Short logs and notes on each stage are in [`/Reports`](./Reports).  
-
----
-
 ## 🚦 Next Steps   
 - Add a secure honeycomb mesh for straighter flow.  
 - Use a ducted design and better proportions.
