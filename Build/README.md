@@ -21,6 +21,21 @@ Some cardboard boxes and trash were being thrown out so I took them for my “sc
 
 I knew this idea was sketchy but that never stopped me.
 
+## ✏️ Sketching
+
+I drew this sketch specifically for this portfolio, to explain how it was meant to work and my reasoning behind each decision.  
+
+![Sketch](Sketch.webp)
+
+Excuse my drawing skills, as I am not a descendant of Picasso.  
+
+Below are the explanations based on the numbers referenced on the sketch:
+
+1. The whole structure itself, showing how it theoretically should work, with air flowing through the Pringles can, into the plastic bottle, and then out.  
+2. The opening to the Pringles can. The edges can be covered with duct tape for extra grip on the hairdryer so it doesn’t come loose. Aluminium foil is added at the bottom for safety.  
+3. The end of the Pringles can is covered in duct tape, and then I poked holes to try to create uniform flow. It failed, but I learnt a lot about airflow and pressure drops.  
+4. Side view of the whole system. The monster can was purely for aesthetics, since I currently have caffeine running in my veins.  
+
 ## 🔨 Building
 
 Cutting, taping and putting everything together.  
@@ -55,8 +70,6 @@ Even a messy setup can teach you something about airflow.
 
 ## 🎯 Next Steps
 
-Build wind tunnel Mk II with proper flow straighteners and stronger materials.  
-Improve smoke generation for clearer visualisation.  
 Take photos and videos to actually see the airflow.  
-Combine this with CFD to compare simulations with real smoke.
+Look at the results and see where I can do better next time.
 
