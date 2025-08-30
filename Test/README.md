@@ -12,17 +12,30 @@ Now, for my setup, that speed was way too much, and you’ll see exactly what I 
 
 ## 🎥 Tests
 
-### Test 1  
-[![Test 1](https://img.youtube.com/vi/LLgylJ2-jGY/0.jpg)](https://youtu.be/LLgylJ2-jGY)  
+The videos below were the best of the bunch. There were plenty more, but most of them showed absolutely nothing except disappointment. I had to wait a few minutes every time for smoke to build up before switching on the hairdryer, but even then the visuals only lasted half a second before the smoke vanished. Turns out incense isn’t exactly Red Bull Racing levels of technology. I also decided to completely rip off the duct tape at the entrance to the main tunnel, since the holes weren't letting any air through.  
 
-### Test 2  
-[![Test 2](https://img.youtube.com/vi/l7FbIIrXdn4/0.jpg)](https://youtu.be/l7FbIIrXdn4)  
-
-### Test 3  
-[![Test 3](https://img.youtube.com/vi/qWAtWFcYQfM/0.jpg)](https://youtu.be/qWAtWFcYQfM)  
-
-The videos above were the best of the bunch. There were plenty more, but most of them showed absolutely nothing except disappointment. I had to wait a few minutes every time for smoke to build up before switching on the hairdryer, but even then the visuals only lasted half a second before the smoke vanished. Turns out incense isn’t exactly Red Bull Racing levels of technology.  
-I also decided to completely rip off the duct tape at the entrance to the main tunnel, since the holes weren't letting any air through.
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/LLgylJ2-jGY">
+        <img src="https://img.youtube.com/vi/LLgylJ2-jGY/0.jpg" width="250" alt="Test 1">
+      </a>
+      <p align="center">Test 1</p>
+    </td>
+    <td>
+      <a href="https://youtu.be/l7FbIIrXdn4">
+        <img src="https://img.youtube.com/vi/l7FbIIrXdn4/0.jpg" width="250" alt="Test 2">
+      </a>
+      <p align="center">Test 2</p>
+    </td>
+    <td>
+      <a href="https://youtu.be/qWAtWFcYQfM">
+        <img src="https://img.youtube.com/vi/qWAtWFcYQfM/0.jpg" width="250" alt="Test 3">
+      </a>
+      <p align="center">Test 3</p>
+    </td>
+  </tr>
+</table>
 
 ## 🖼️ Hall of Fame
 
