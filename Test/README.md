@@ -12,7 +12,9 @@ Now, for my setup, that speed was way too much, and you’ll see exactly what I 
 
 ## 🎥 Tests
 
-The videos below were the best of the bunch. There were plenty more, but most of them showed absolutely nothing except disappointment. I had to wait a few minutes every time for smoke to build up before switching on the hairdryer, but even then the visuals only lasted half a second before the smoke vanished. Turns out incense isn’t exactly Red Bull Racing levels of technology. I also decided to completely rip off the duct tape at the entrance to the main tunnel, since the holes weren't letting any air through.  
+The videos below were the best of the bunch. There were plenty more, but most of them showed absolutely nothing except disappointment. 
+I had to wait a few minutes every time for smoke to build up before switching on the hairdryer, but even then the visuals only lasted half a second before the smoke vanished. 
+Turns out incense isn’t exactly Red Bull Racing levels of technology. I also decided to completely rip off the duct tape at the entrance to the main tunnel, since the holes weren't letting any air through.  
 
 <table>
   <tr>
@@ -37,18 +39,18 @@ The videos below were the best of the bunch. There were plenty more, but most of
   </tr>
 </table>
 
-## 🖼️ Hall of Fame
+## 🏆 Hall of Fame
 
 Some of my favourite pictures from the tests. A few of these I actually stopped and stared at for a bit, because even in this scrappy tunnel there were moments where the smoke looked beautiful.  
 
 <table>
   <tr>
-    <td><img src="pic1.webp" alt="pic1" width="250"></td>
-    <td><img src="pic2.webp" alt="pic2" width="250"></td>
+    <td><img src="pic1.webp" alt="pic1" width="400"></td>
+    <td><img src="pic2.webp" alt="pic2" width="400"></td>
   </tr>
   <tr>
-    <td><img src="pic3.webp" alt="pic3" width="250"></td>
-    <td><img src="pic4.webp" alt="pic4" width="250"></td>
+    <td><img src="pic3.webp" alt="pic3" width="400"></td>
+    <td><img src="pic4.webp" alt="pic4" width="400"></td>
   </tr>
 </table>
 
