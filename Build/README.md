@@ -7,7 +7,7 @@ Here is how it came together step by step.
 ## 📝 Planning (or the lack of it)
 
 The plan was simple: have no plan at all.  
-Some cardboard boxes and trash were being thrown out so I took them for my “science mission.”
+Some cardboard boxes and trash were being thrown out so I took them for my “science mission".
 
 **Materials I used**  
 - Cardboard boxes and basket.  
