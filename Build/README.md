@@ -1,4 +1,4 @@
-# Mini Wind Tunnel Mk I 🏎️💨
+# Creating the Mini Wind Tunnel Mk I 🏎️💨
 
 This started out of pure boredom and somehow turned into a lesson in airflow, improvisation and nearly setting fire to the house.
 
