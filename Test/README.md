@@ -1,29 +1,70 @@
-We made it! The testing stage, this was pretty exciting to me, since I never actually make it this far. 
-Without further ado, lets experiment. 
+# Testing
 
-Burned 3 matches and an incense stick, then put them in the foil area.
-Closing the flap of cardboard allowed more smoke to stay inside the system, so I could have more visuals on the flow.
+## The Setup
 
-Then, I used a hairdryer as a source of wind, The hairdryer I used says 2200 W on the side, but that number is almost all about heat and has very little to do with airflow. 
-To get a rough idea of how fast the air actually moves, I took the usual flow rate for a standard dryer, about one to two cubic metres a minute, and then ran it through the classic 𝑣=𝑄/𝐴 
-With the outlet being about the size of a small drinks can, the numbers land somewhere in the range of ten to twenty five metres per second.
+We made it. The testing stage. Honestly this was the most exciting part for me, since I usually never even make it this far before abandoning a project halfway. But here we are, smoke at the ready, hairdryer in hand.  
 
-Now for my wind tunnel, which is extremely small, this speed was way too much, and you will understand why when you watch the video. 
+First thing I did was burn three matches and an incense stick, then shoved them into the little foil area I had made earlier. Closing the flap of cardboard kept more smoke inside the system so I could actually see something moving when the air hit.  
 
-Test 1:
-https://youtu.be/LLgylJ2-jGY
+For the wind, I used a normal hairdryer. On the side it proudly says **2200 W**, but that number is almost all about the heat, not the air. To figure out how fast the air was actually moving, I looked up the usual flow rate for a dryer (one to two cubic metres a minute), then threw it into the good old `v = Q / A`. Since the outlet was about the size of a drinks can, the numbers came out around ten to twenty five metres per second. Which is basically a car on the motorway blasting into my tiny cardboard tunnel. No wonder things got messy.  
 
-Test 2: 
-https://youtu.be/l7FbIIrXdn4
+Now, for my setup, that speed was way too much, and you’ll see exactly what I mean when you watch the videos.  
 
-Test 3: 
-https://youtu.be/qWAtWFcYQfM
+## The Tests
 
-The videos above are tests that I ran with the setup, there were more videos, but no visual of the flow. 
-Had to take a couple of minutes to let the smoke build up before turning on the fan, but even then, the flow only lasts half a second due to the lack of smoke generation. 
+### Test 1  
+[![Test 1](https://img.youtube.com/vi/LLgylJ2-jGY/0.jpg)](https://youtu.be/LLgylJ2-jGY)  
 
-Hall of fame:
-Below are some of my favourite images from the testing, some of which I thought were beautiful enough to stare at for a bit haha. 
+### Test 2  
+[![Test 2](https://img.youtube.com/vi/l7FbIIrXdn4/0.jpg)](https://youtu.be/l7FbIIrXdn4)  
+
+### Test 3  
+[![Test 3](https://img.youtube.com/vi/qWAtWFcYQfM/0.jpg)](https://youtu.be/qWAtWFcYQfM)  
+
+The videos above were the best of the bunch. There were plenty more, but most of them showed absolutely nothing except disappointment. I had to wait a few minutes every time for smoke to build up before switching on the hairdryer, but even then the visuals only lasted half a second before the smoke vanished. Turns out incense isn’t exactly Red Bull Racing levels of technology.  
+
+## The Hall of Fame
+
+Some of my favourite pictures from the tests. A few of these I actually stopped and stared at for a bit, because even in this scrappy tunnel there were moments where the smoke looked beautiful.  
+
+<table>
+  <tr>
+    <td><img src="pic1.webp" alt="pic1" width="250"></td>
+    <td><img src="pic2.webp" alt="pic2" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="pic3.webp" alt="pic3" width="250"></td>
+    <td><img src="pic4.webp" alt="pic4" width="250"></td>
+  </tr>
+</table>
+
+Here’s also a close up of the rear wing of the model. You can just about see the smoke peeling off the surface and forming a faint trail.  
+
+![wing](wing.webp)  
+
+This little car was the perfect reminder of what wind tunnels are really about. Seeing the flow wrap around it, even for a split second, made the whole messy process worth it.  
+
+## What Worked
+
+This project was never meant for serious data. It was simply me, some scrap cardboard, and a desire to play engineer for a bit. And while it failed in a lot of ways, it also succeeded in teaching me far more than a PowerPoint slide ever could.  
+
+I built something from scratch with zero budget, and the only thing I paid for was the model. I got real footage of airflow, even if it was short-lived. And yes, duct tape was the MVP again, making a dark backdrop that helped the smoke stand out.  
+
+## What Did Not Work
+
+The tunnel was leaky, the smoke too thin, the flow anything but uniform, and the giant plastic bottle made the smoke rise where the car wasn’t. Oh, and the hairdryer was hilariously overpowered. The smoke never stood a chance.  
+
+## Next Time
+
+I have a 3D printer now, so the structure will actually hold together. I want to look at how F1 teams design their tunnels, with the moving belt at the bottom. I’ll find a way to get denser smoke, maybe with a fog machine. I’ll stick an anemometer in there too, so I can measure the speed properly. And this time, I’ll design everything in SolidWorks before printing it on the Bambu A1.  
+
+The goal is simple. Learn even more than before, by actually doing it.  
+
+## The End
+
+Thanks for reading. I don’t think I’ll revisit this version again, but I’m already planning the sequel.  
+
+**Mini Wind Tunnel Mark II. Coming soon.**
 
 
 
