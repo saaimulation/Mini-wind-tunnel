@@ -17,7 +17,7 @@ Some cardboard boxes and trash were being thrown out so I took them for my “sc
 - Duct tape the ultimate problem solver.  
 - Hairdryer.  
 
-![Base materials](Base_Materials.webp)
+![Base materials](Base Materials.webp)
 
 I knew this idea was sketchy but that never stopped me.
 
