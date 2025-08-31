@@ -6,7 +6,8 @@ We made it. The testing stage. Honestly this was the most exciting part for me, 
 
 First thing I did was burn three matches and an incense stick, then shoved them into the little foil area I had made earlier. Closing the flap of cardboard kept more smoke inside the system so I could actually see something moving when the air hit.  
 
-For the wind, I used a normal hairdryer. On the side it proudly says **2200 W**, but that number is almost all about the heat, not the air. To figure out how fast the air was actually moving, I looked up the usual flow rate for a dryer (one to two cubic metres a minute), then threw it into `v = Q / A`. Since the outlet was about the size of a drinks can, the numbers came out around ten to twenty five metres per second. Which is basically a car on the motorway blasting into my tiny cardboard tunnel. No wonder things got messy.  
+For the wind, I used a normal hairdryer. On the side it proudly says **2200 W**, but that number is almost all about the heat, not the air. To figure out how fast the air was actually moving, I looked up the usual flow rate for a dryer (one to two cubic metres a minute), then threw it into 
+`v = Q / A`. Since the outlet was about the size of a drinks can, the numbers came out around ten to twenty five metres per second. Which is basically a car on the motorway blasting into my tiny cardboard tunnel. No wonder things got messy.  
 
 Now, for my setup, that speed was way too much, and you’ll see exactly what I mean when you watch the videos.  
 
