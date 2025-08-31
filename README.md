@@ -18,7 +18,7 @@ Build a low-cost wind tunnel from recycled materials to visualise airflow over s
 - Non-uniform flow ❌ (turbulent regions, inconsistent velocity).  
 - Managed to get **some successful visuals** despite setup limitations.  
 
-📂 See [`/Tests`](./Tests) for test photos & observations.  
+📂 See [`/Test`](./Test) for test photos & observations.  
 
 ---
 
