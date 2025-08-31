@@ -80,7 +80,7 @@ The goal is simple. Learn even more than before, by actually doing it.
 
 Thanks for reading. I don’t think I’ll revisit this version again, but I’m already planning the sequel.  
 
-**Mini Wind Tunnel Mark II. Coming soon.**
+**Mini Wind Tunnel Mark II. Coming soon!**
 
 
 
